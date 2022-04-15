@@ -4,7 +4,7 @@
  <!-- PROJECT LOGO -->
   <br />
   <a href="https://github.com/NikhirMG/CardValidator">
-    <img src="assets/images/CValidLogo.png" alt="Logo" width="500" height="400">
+    <img src="CardValidator/assets/images/CValidLogo.png" alt="Logo" width="500" height="400">
   </a>
   
 # CardValidator
