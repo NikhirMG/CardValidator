@@ -1,5 +1,12 @@
 <div id="top"></div>
 <div align="center">
+
+ <!-- PROJECT SHIELDS -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
   
  <!-- PROJECT LOGO -->
   <br />
@@ -38,10 +45,10 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#download-the-files">Download the files</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#using-card-validator">Using Card Validator</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -180,9 +187,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b newfeature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+4. Push to the Branch (`git push origin newfeature/AmazingFeature`)
 5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -209,10 +216,12 @@ Project Link: [CardValidator](https://github.com/NikhirMG/CardValidator)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+This project could not have been made possible alone if it weren't for these amazing resources.
 
-* []()
-* []()
-* []()
+* [W3 Schools](https://www.w3schools.com/)
+* [VISA](https://developer.visa.com/)
+* [Paysafe](https://developer.paysafe.com/)
+* [GeefsforGeeks](https://www.geeksforgeeks.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -220,16 +229,15 @@ Project Link: [CardValidator](https://github.com/NikhirMG/CardValidator)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/NikhirMG/CardValidator.svg?style=for-the-badge
+[contributors-url]: https://github.com/NikhirMG/CardValidator/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NikhirMG/CardValidator.svg?style=for-the-badge
+[forks-url]: https://github.com/NikhirMG/CardValidator/network/members
+[stars-shield]: https://img.shields.io/github/stars/NikhirMG/CardValidator.svg?style=for-the-badge
+[stars-url]: https://github.com/NikhirMG/CardValidator/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NikhirMG/CardValidator.svg?style=for-the-badge
+[issues-url]: https://github.com/NikhirMG/CardValidator/issues
+[license-shield]: https://img.shields.io/github/license/NikhirMG/CardValidator.svg?style=for-the-badge
+[license-url]: https://github.com/NikhirMG/CardValidator/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+
