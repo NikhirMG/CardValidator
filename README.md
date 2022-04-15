@@ -115,27 +115,39 @@ Side note: I highly recommend using this code in Visual Studio Code with the liv
 * You are most welcome to use the example cards in Example_cards.txt to test this application.
 
 ### The Welcome Page
-[![CardValidator Welcome][scrn-welcome]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid1.png)
+
+<a href="url"><img src="https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid1.png" height="auto" width="auto"></a>
+
 After you open the [Index.html](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/Index.html) file in your browser, this should be the first page you view.
 
 ### Enter your Full Name
-[![CardValidator F_NAME][scrn-f_name]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/Cvalid2.png)
+
+<a href="url"><img src="https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/Cvalid2.png" height="auto" width="auto"></a>
+
 In the input box type your full name, please make sure the name is not less than 3 characters.
 
 ### Enter the CVC
-[![CardValidator CVC][scrn-cvc]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid3.png)
+
+<a href="url"><img src="https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid3.png" height="auto" width="auto"></a>
+
 In this input box, type in the 3-digit CVC/CVV (Card Verification Value/Code) number.
 
 ### Enter the Card Number
-[![CardValidator Card][scrn-card]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid4.png)
+
+<a href="url"><img src="https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid4.png" height="auto" width="auto"></a>
+
 Here you will enter the corresponding card number, do not worry the program will automatically space out after every 4 digits has been entered.
 
 ### Select the Expiration date
-[![CardValidator EXP[scrn-exp]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid5.png)
+
+<a href="url"><img src="https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid5.png" height="auto" width="auto"></a>
+
 Click the drop up/down menu to select the expiration month and year.
 
 ### Submit
-[![CardValidator Submit][scrn-submit]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid6.png)
+
+<a href="url"><img src="https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid6.png" height="auto" width="auto"></a>
+
 Once you click Submit, the app will pop-up "Card is Valid", if you obtain a different result please double check that you have entered everything correctly.
 
 
@@ -147,12 +159,13 @@ Once you click Submit, the app will pop-up "Card is Valid", if you obtain a diff
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
+- [x] Animations are responsive
+- [x] Alerts user if details are incorrect
+- [ ] Has a stable API for real time results from VISA, MAESTRO & AMEX
+- [ ] Real time accuracy
+    - [ ] Stable
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/NikhirMG/CardValidator/issues) for a comprehensive list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -188,9 +201,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [CardValidator](https://github.com/NikhirMG/CardValidator)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
