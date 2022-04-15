@@ -115,27 +115,27 @@ Side note: I highly recommend using this code in Visual Studio Code with the liv
 * You are most welcome to use the example cards in Example_cards.txt to test this application.
 
 ### The Welcome Page
-[![CardValidator Welcome][Welcome]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid1.png)
+[![CardValidator Welcome][scrn-welcome]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid1.png)
 After you open the [Index.html](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/Index.html) file in your browser, this should be the first page you view.
 
 ### Enter your Full Name
-[![CardValidator F_NAME][F_NAME]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/Cvalid2.png)
+[![CardValidator F_NAME][scrn-f_name]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/Cvalid2.png)
 In the input box type your full name, please make sure the name is not less than 3 characters.
 
 ### Enter the CVC
-[![CardValidator CVC][CVC]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid3.png)
+[![CardValidator CVC][scrn-cvc]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid3.png)
 In this input box, type in the 3-digit CVC/CVV (Card Verification Value/Code) number.
 
 ### Enter the Card Number
-[![CardValidator Card][Card]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid4.png)
+[![CardValidator Card][scrn-card]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid4.png)
 Here you will enter the corresponding card number, do not worry the program will automatically space out after every 4 digits has been entered.
 
 ### Select the Expiration date
-[![CardValidator EXP[EXP]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid5.png)
+[![CardValidator EXP[scrn-exp]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid5.png)
 Click the drop up/down menu to select the expiration month and year.
 
 ### Submit
-[![CardValidator Submit][Submit]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid6.png)
+[![CardValidator Submit][scrn-submit]](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/screenshots/CValid6.png)
 Once you click Submit, the app will pop-up "Card is Valid", if you obtain a different result please double check that you have entered everything correctly.
 
 
