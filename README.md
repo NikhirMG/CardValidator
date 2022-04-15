@@ -221,7 +221,7 @@ This project could not have been made possible alone if it weren't for these ama
 * [W3 Schools](https://www.w3schools.com/)
 * [VISA](https://developer.visa.com/)
 * [Paysafe](https://developer.paysafe.com/)
-* [GeefsforGeeks](https://www.geeksforgeeks.org/)
+* [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
