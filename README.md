@@ -239,6 +239,6 @@ This project could not have been made possible alone if it weren't for these ama
 [issues-shield]: https://img.shields.io/github/issues/NikhirMG/CardValidator.svg?style=for-the-badge
 [issues-url]: https://github.com/NikhirMG/CardValidator/issues
 [license-shield]: https://img.shields.io/github/license/NikhirMG/CardValidator.svg?style=for-the-badge
-[license-url]: https://github.com/NikhirMG/CardValidator/blob/master/LICENSE.txt
+[license-url]: https://github.com/NikhirMG/CardValidator/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
