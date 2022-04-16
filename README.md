@@ -119,7 +119,7 @@ Side note: I highly recommend using this code in Visual Studio Code with the liv
 <!-- USAGE EXAMPLES -->
 ## Using Card Validator
 
-* You are most welcome to use the example cards in Example_cards.txt to test this application.
+* You are most welcome to use the example cards in [Example_cards.txt](https://github.com/NikhirMG/CardValidator/blob/main/CardValidator/Example_cards.txt) to test this application.
 
 ### The Welcome Page
 
